@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,aviation,music
 - 🌱 I’m currently learning data analysis with python
 - 💞️ I’m looking to collaborate on forex bot with python
-- 📫 How to reach me instagram: @nkululeko_shongwe email: nbshongwes@gmail.com
+- 📫 How to reach me instagram: @nkululeko_shongwe email: nbshongwes@gmail.com Twitter:@nkululekoshong8
 
 <!---
 NkululekoShongwe/NkululekoShongwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
